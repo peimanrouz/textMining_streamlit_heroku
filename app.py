@@ -221,7 +221,7 @@ st.write(paragraph)
 #============================================
 
 
-st.title("متن خود را برای خلاصه کردن در وارد کنید ")
+st.title("متن خود را برای خلاصه کردن وارد کنید ")
 
 
 # your_text = st.text_input("Enter Your Text For Summarization : ")
