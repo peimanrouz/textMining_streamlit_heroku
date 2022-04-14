@@ -320,6 +320,3 @@ for i in yourSentence_dict_sorted:
 
 st.title("خلاصه متن در یک پاراگراف")
 st.write(yourparagraph)
-
-
-#peimanRouznamehchi
